@@ -43,6 +43,6 @@ newArr.push('i think');
 newArr.push('it will work');
 newArr.push('i ');
 // newArr.delete(1);
-// newArr.delete(2);
+newArr.delete(2);
 newArr.delete();
 console.log(newArr);
